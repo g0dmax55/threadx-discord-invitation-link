@@ -16,7 +16,7 @@ Join our Discord server by clicking the link below:
 
 [**Join ThreadX Community on Discord**](https://discord.com/invite/z4VTsSXdqr) 🔒
 
-## 🌟 Features
+## ✨ Highlights
 
 Here’s what you can expect in our Discord server:
 
