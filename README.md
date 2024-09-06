@@ -40,7 +40,7 @@ We love contributions! Here’s how you can get involved:
 
 Have questions or need further assistance? Feel free to reach out:
 
-- **Discord**: [Join our Server](https://discord.gg/your-invite-link)
+- **Discord**: [Join our Server](https://discord.com/invite/z4VTsSXdqr)
 - **Email**: g0dmax55@protonmail.com
 
 ---
