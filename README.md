@@ -36,10 +36,6 @@ We love contributions! Here’s how you can get involved:
 3. **Share Resources**: Contribute useful links, documents, and tools related to cybersecurity.
 4. **Report Issues**: Help us keep the server safe and efficient by reporting issues.
 
-## 📜 License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
-
 ## 📞 Contact Information
 
 Have questions or need further assistance? Feel free to reach out:
