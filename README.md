@@ -43,4 +43,4 @@ Have questions or need further assistance? Feel free to reach out:
 
 ---
 
-Thank you for being a part of the **ThreadX Community**! We’re excited to have you with us. Let’s make the digital world safer together! 🛡️
+Thank you for being a part of the **ThreadX Community**! 🛡️
