@@ -14,7 +14,7 @@ The **ThreadX Community** is dedicated to fostering a collaborative and supporti
 
 Join our Discord server by clicking the link below:
 
-[**Join ThreadX Community on Discord**](https://discord.com/invite/z4VTsSXdqr) 🔒
+[**Join ThreadX Community on Discord**](aHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvejRWVHNTWGRxcg==) 🔒
 
 ## ✨ Highlights
 
