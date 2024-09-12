@@ -14,7 +14,7 @@ The **ThreadX Community** is dedicated to fostering a collaborative and supporti
 
 Join our Discord server by clicking the link below:
 
-`aHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvejRWVHNTWGRxcg==` 🔒
+```g0dmax55@bl4ckh4t-h4ck3r:~$ echo "aHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvejRWVHNTWGRxcg==" | base64 -d``` 🔒
 
 ## ✨ Highlights
 
