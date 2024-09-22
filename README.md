@@ -41,4 +41,4 @@ Have questions or need further assistance? Feel free to reach out:
 
 ---
 
-Thank you for being a part of the **ThreadX Community**! 🛡️
+Thank you for being a part of the **Thread-X Community**! 🛡️
