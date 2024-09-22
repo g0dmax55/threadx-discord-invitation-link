@@ -1,4 +1,4 @@
-# ThreadX Community 🛡️
+# Thread-X Community 🛡️
 
 Welcome to the **ThreadX Community** Discord server! This is your go-to place for all discussions, support, and collaboration related to cybersecurity. Whether you're a beginner or an expert, you'll find a welcoming community here.
 
